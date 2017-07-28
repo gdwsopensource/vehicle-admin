@@ -1,0 +1,32 @@
+.content-wrapper {
+    .summary {
+        height: 350px;
+        #car-type {
+            height: 240px;
+        }
+        #geographical-distribution,
+        #data-summary-bar {
+            height: 345px;
+        }
+    }
+}
+
+.search-content {
+    #behavior-analysis-heatmap {
+        height: 450px;
+    }
+    #behavior-analysis-sub1,
+    #behavior-analysis-sub2,
+    #behavior-analysis-sub3,
+    #behavior-analysis-sub4 {
+        height: 400px;
+    }
+    .white-head {
+        border-top-color: #ffffff;
+    }
+    .box{
+        margin-bottom: 10px;
+        .nav-tabs-custom {
+    margin-bottom: 10px;}
+    }
+}
